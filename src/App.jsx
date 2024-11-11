@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="container">
-      <div className="card ms-1 mt-5 mb-5">
+      <div className="card mt-5 mb-5">
         <div className="card-body">
           <div className="heading mt-4">
             <h1>TO-DO LIST</h1>

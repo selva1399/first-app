@@ -30,7 +30,7 @@ function InputArea() {
 
   return (
     <>
-      <form className="row g-3 mt-3 ms-2">
+      <form className="row g-2 mt-3 ms-2">
         <div className="col-auto">
           <input
             type="text"
