@@ -1,0 +1,53 @@
+:root {
+  background-color: #FF9C73;
+}
+
+body {
+  background-color: #FF9C73;
+  min-height: 70vh;
+  padding: 1rem;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: hsl(198, 1%, 29%);
+  font-family: "Architects Daughter", cursive;
+  text-align: center;
+  font-size: 130%;
+}
+
+.container {
+  width: 100%;
+}
+
+.form-control {
+  box-shadow: none !important;
+  border:none;
+  border-bottom: dashed 3px #fd8b51;
+}
+
+.card {
+  min-height: 500px;
+  width: 400px;
+  height: auto;
+  background: #f1f5f8;
+  background-image: radial-gradient(#bfc0c1 7.2%, transparent 0);
+  background-size: 25px 25px;
+  border-radius: 20px;  
+  
+}
+
+h1 {
+  display: inline-block;
+  transform: rotate(1.5deg);
+  background-color: #FD8B51;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 25%;
+}
+
+.btn {
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
